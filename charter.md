@@ -2,12 +2,12 @@
 
 The Linux Foundation
 
-Amended 12 February, 2024
+Amended 8 October, 2025
 
 ## 1. Mission and Scope of the eBPF Foundation
 
-1. The purpose of the eBPF Foundation (the “Directed Fund”) is to raise, budget and spend funds in support of the eBPF community and the “Technical Project(s)” as defined by the Project Progression Policy.
-2. The Directed Fund supports the Technical Projects and broader eBPF ecosystem. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.  
+1. The purpose of the eBPF Foundation (the “Directed Fund”) is to raise, budget and spend funds in support of the eBPF community.
+2. The Directed Fund supports the eBPF ecosystem. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.  
 3. The Governing Board manages the Directed Fund. The Directed Fund will also have working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by either the Governing Board or the BSC (as defined below).
 
 ## 2. Membership
@@ -45,15 +45,12 @@ Amended 12 February, 2024
 
 ## 4. eBPF Steering Committee (“BSC”)
 
-1. The BSC is composed of maintainers from the eBPF community, including, the Linux kernel, eBPF runtimes, and landscape projects. There can be at most two representatives on the BSC employed by the same company or by Related Companies.
+1. The BSC is composed of maintainers from the eBPF community, including, the Linux kernel, eBPF runtimes, and eBPF projects. There can be at most two representatives on the BSC employed by the same company or by Related Companies.
 2. The BSC will operate independently to facilitate the technical development collaborations helpful to eBPF’s developer and user communities. The BSC will be responsible for:
     1. coordinating collaboration within the eBPF community, including the development of an overall technical vision for the community;
     2. proposing community development activities to the Governing Board, and coordinating and evangelizing eBPF Projects and technologies to current and potential developers and users. 
-    3. defining requirements and the process for a project applying to become an eBPF Foundation Project; 
-    4. ensuring eBPF Foundation Projects follow all requirements for trademark and account ownership, and
-    5. approving and maintaining an eBPF Foundation Project lifecycle policy that will address the incubation, archival and other stages and requirements of Technical Projects.
-    6. proposing priorities to the Governing Board for events, travel funds, and other investments to grow the eBPF community of developers and users.
-    7. identifying and facilitating areas of collaboration with adjacent open source communities to support eBPF’s use and adoption, such as communities focused on compilers, kernels, and debuggers; and
+    3. proposing priorities to the Governing Board for events, travel funds, and other investments to grow the eBPF community of developers and users.
+    4. identifying and facilitating areas of collaboration with adjacent open source communities to support eBPF’s use and adoption, such as communities focused on compilers, kernels, and debuggers; and
 3. Expansion, Removal, and Vacancies
     1. Expansion:
         1. Any member of the BSC may propose a new member to the BSC. If supported by a second BSC member, the BSC will vote on acceptance of the new member.
@@ -89,7 +86,7 @@ Amended 12 February, 2024
 
 ## 8. Trademarks
 
-1. Any trademarks relating to the Directed Fund or the Technical Projects, including without limitation any mark relating to any conformance program, must be transferred to and held by LF Projects, LLC or the Linux Foundation and available for use pursuant to LF Projects, LLC’s trademark usage policy, available at https://lfprojects.org/policies/trademark-policy/.
+1. Any trademarks relating to the Directed Fund, including without limitation any mark relating to any conformance program, must be transferred to and held by LF Projects, LLC or the Linux Foundation and available for use pursuant to LF Projects, LLC’s trademark usage policy, available at https://lfprojects.org/policies/trademark-policy/.
 
 ## 9. Antitrust Guidelines
 
@@ -98,7 +95,7 @@ Amended 12 February, 2024
 
 ## 10. Budget
 
-1. The Governing Board will approve an annual budget and never commit to spend in excess of funds raised. The budget and the purposes to which it is applied must be consistent with both (a) the non-profit and tax-exempt mission of The Linux Foundation and (b) the aggregate goals of the Technical Projects.
+1. The Governing Board will approve an annual budget and never commit to spend in excess of funds raised. The budget and the purposes to which it is applied must be consistent with both (a) the non-profit and tax-exempt mission of The Linux Foundation and (b) the aggregate goals of the eBPF community.
 2. The Linux Foundation will provide the Governing Board with regular reports of spend levels against the budget. Under no circumstances will The Linux Foundation have any expectation or obligation to undertake an action on behalf of the Directed Fund or otherwise related to the Directed Fund that is not covered in full by funds raised by the Directed Fund.
 3. In the event an unbudgeted or otherwise unfunded obligation arises related to the Directed Fund, The Linux Foundation will coordinate with the Governing Board to address gap funding requirements.
 
@@ -112,8 +109,8 @@ Amended 12 February, 2024
 The Directed Fund activities must:
 1. engage in the work of the project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of The Linux Foundation in the open source community;
 2. respect the rights of all trademark owners, including any branding and usage guidelines;
-3. engage or coordinate with The Linux Foundation on all outreach, website and marketing activities regarding the Directed Fund or on behalf of any 4. Technical Project that invoke or associate the name of any Technical Project or The Linux Foundation; and
-operate under such rules and procedures as may be approved by the Governing Board and confirmed by The Linux Foundation.
+3. engage or coordinate with The Linux Foundation on all outreach, website and marketing activities regarding the Directed Fund or The Linux Foundation; and
+4. operate under such rules and procedures as may be approved by the Governing Board and confirmed by The Linux Foundation.
 
 ## 13. Amendments
 1. This Charter may be amended by a two-thirds vote of the entire Governing Board and BSC, subject to approval by The Linux Foundation.
