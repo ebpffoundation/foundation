@@ -2,7 +2,7 @@
 
 The Linux Foundation
 
-Amended 12 February, 2024
+Amended 8 October, 2025
 
 ## 1. Mission and Scope of the eBPF Foundation
 
