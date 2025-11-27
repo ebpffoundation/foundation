@@ -1,6 +1,15 @@
 **Meetup Groups hosting an event about eBPF can be reimbursed for up to $150 per month for Meetup-related expenses as long as they are using and hosting events on [community.cncf.io](https://community.cncf.io/), including food, beverages, and other expenses.**
 
+#### Event Eligibility & Verification
+
+To ensure the integrity of the program, expenses will only be reimbursed for approved events. To qualify:
+
+1. Platform Requirement: The group must be active and the specific event must be hosted/listed on community.cncf.io.
+2. Content Focus: The agenda must primarily focus on eBPF technology or use cases.
+3. Proof of Event: To verify the event took place, you must include a link to the specific event page and a number of attendees.
+
 #### Reimbursement Instructions:
+
 1.	Create an account in the recommended expense report software [expensify.com](https://expensify.com) (if you already have a expense report software you can use that software if you prefer)
 2.	Create a report through expensify.com and attach receipts to the full report. Export as a PDF
  	-	Please expense receipts after you have spent the money.
@@ -16,7 +25,8 @@
 3.	If this is your first time submitting a expense report please include the [wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing)
 4.	Submit your expenses through the form
 
-#### **What Can You Expense**
+#### What Can You Expense
+
 -	Food & Beverage
 -	Venue
 -	Swag
