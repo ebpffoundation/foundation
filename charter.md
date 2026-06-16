@@ -7,7 +7,7 @@ Amended 8 October, 2025
 ## 1. Mission and Scope of the eBPF Foundation
 
 1. The purpose of the eBPF Foundation (the “Directed Fund”) is to raise, budget and spend funds in support of the eBPF community.
-2. The Directed Fund supports the eBPF ecosystem. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.  
+2. The Directed Fund supports the eBPF ecosystem (the “Technical Project”). The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.  
 3. The Governing Board manages the Directed Fund. The Directed Fund will also have working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by either the Governing Board or the BSC (as defined below).
 
 ## 2. Membership
@@ -49,8 +49,9 @@ Amended 8 October, 2025
 2. The BSC will operate independently to facilitate the technical development collaborations helpful to eBPF’s developer and user communities. The BSC will be responsible for:
     1. coordinating collaboration within the eBPF community, including the development of an overall technical vision for the community;
     2. proposing community development activities to the Governing Board, and coordinating and evangelizing eBPF Projects and technologies to current and potential developers and users. 
-    3. proposing priorities to the Governing Board for events, travel funds, and other investments to grow the eBPF community of developers and users.
-    4. identifying and facilitating areas of collaboration with adjacent open source communities to support eBPF’s use and adoption, such as communities focused on compilers, kernels, and debuggers; and
+    3. ensuring eBPF Foundation Technical Project follows all requirements for trademark and account ownership, and
+    4. proposing priorities to the Governing Board for events, travel funds, and other investments to grow the eBPF community of developers and users.
+    5. identifying and facilitating areas of collaboration with adjacent open source communities to support eBPF’s use and adoption, such as communities focused on compilers, kernels, and debuggers; and
 3. Expansion, Removal, and Vacancies
     1. Expansion:
         1. Any member of the BSC may propose a new member to the BSC. If supported by a second BSC member, the BSC will vote on acceptance of the new member.
